@@ -119,7 +119,13 @@ vibe-commerce-cart/
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (1654)" src="https://github.com/user-attachments/assets/e13c5571-141b-4f0e-801c-787ed2439aef" />
+<img width="1920" height="1080" alt="Screenshot (1654)" src="https://github.com/user-attachments/assets/2d279fac-3ebf-485e-b39d-8936f6fbd7f6" />
+<img width="1920" height="1080" alt="Screenshot (1654)" src="https://github.com/user-attachments/assets/13048814-c643-4254-8ad6-c048a4ce5f51" />
+<img width="1920" height="1080" alt="Screenshot (1654)" src="https://github.com/user-attachments/assets/258e160b-e9d6-4855-aeeb-20b20a492450" />
+<img width="1920" height="1080" alt="Screenshot (1654)" src="https://github.com/user-attachments/assets/25e36b8f-5239-4389-a278-abcc90cbfb1e" />
+
+
+
 
 ## ✅ Features Implemented
 
@@ -225,22 +231,8 @@ CREATE TABLE cart (
 - [ ] Multi-user cart support
 - [ ] Product reviews and ratings
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
-
-## 📄 License
-
-This project is created for Vibe Commerce internship screening assignment.
 
 ## 🙏 Acknowledgments
-
-- Images from [Unsplash](https://unsplash.com)
-- Icons from Unicode emoji
-- Built for Vibe Commerce internship application
-```
 
 
 Project Highlights:
